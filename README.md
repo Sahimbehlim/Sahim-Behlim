@@ -1,11 +1,10 @@
-[![MasterHead](https://camo.githubusercontent.com/5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://behlimsahim.io)
-<h1 align="center">☆ I'm Sahim Behlim</h1>
+<h1 align="center">☆ I'm Sahim Behlim ☆</h1>
 <h3 align="center">Learning A Web Development...</h3>
-<img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif">
+<img align="right" alt="coding" width="100%" src="https://cdn-images-1.medium.com/v2/resize:fit:640/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahimbehlim&label=Profile%20views&color=0e75b6&style=flat" alt="sahimbehlim" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahimbehlim" alt="sahimbehlim" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahimbehlim" alt="sahimbehlim" /></a> </p>
 
 - 🌱 I’m currently learning **Frontend Tools**
 
