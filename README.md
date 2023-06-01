@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Frontend Tools**
 
-- 💬 Ask me about **HTML CSS**
+- 💬 Ask me about **HTML CSS JavaScript**
 
 - 📫 How to reach me **behlimsahim@gmail.com**
 
