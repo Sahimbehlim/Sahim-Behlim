@@ -1,7 +1,3 @@
-Your GitHub profile looks great! I've made some adjustments to improve clarity and removed any duplicates. Here's a refined version:
-
----
-
 # 💫 About Me
 Aspiring Frontend Developer with a foundation in HTML, CSS, JavaScript, and the modern framework React.js. Eager to leverage my academic knowledge and hands-on project experience in a collaborative development environment.
 
@@ -31,7 +27,5 @@ I’m excited about the opportunity to contribute to innovative projects and be 
 ![](https://github-readme-stats.vercel.app/api?username=Sahimbehlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sahimbehlim&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahimbehlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=Sahimbehlim&icon=7&color=3)](https://visitcount.itsvg.in)
