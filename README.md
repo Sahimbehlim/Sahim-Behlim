@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shaeem Behlim!
+# 👋 I'm Shaeem Behlim!
 
 ### 🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Passionate Coder
 
