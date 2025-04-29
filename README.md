@@ -84,5 +84,5 @@ I'm a dedicated **Full-Stack Web Developer** with a strong passion for building 
 ## 📫 Let's Connect!
 
 - 📧 Email: behlimsahim@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📂 [Resume (PDF)](https://yourresume-link.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/behlimshaeem313/)  
+- 📂 [Resume (PDF)](https://drive.google.com/file/d/1lg1kJ4pGxyq9IvyGFalyfV6snarpUJvW/view)
