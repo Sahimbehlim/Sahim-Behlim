@@ -1,24 +1,88 @@
-# 💫 About Me:
-Passionate Full Stack Developer with experience in developing full-stack applications, dynamic landing pages, and feature-rich mini projects using a variety of modern technologies including React, Node.js, Express, MongoDB, and JavaScript. Focused on building scalable, efficient, and user-friendly applications while continually learning and improving my skill set
+# 👋 Hi there, I'm Shaeem Behlim!
 
+### 🚀 Full-Stack Web Developer | MERN Stack Enthusiast | Passionate Coder
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/behlimshaeem313) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:behlimsahim@gmail.com) 
+I'm a dedicated **Full-Stack Web Developer** with a strong passion for building intuitive and scalable web applications. I love crafting solutions that blend clean UI design with powerful backend logic.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=plastic&logo=ejs&logoColor=black) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=plastic&logo=prettier&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sahimbehlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sahimbehlim&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sahimbehlim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 **Bachelor’s in Information Technology** – Ganpat University (2022–2025)
+- 🌐 Specializing in **MERN Stack** (MongoDB, Express.js, React.js, Node.js)
+- 🛠️ Experience with **Razorpay Integration**, **JWT Auth**, and **RESTful APIs**
+- 💻 Comfortable using **React Hooks**, **Context API**, **Tailwind CSS**, and **EJS**
+- 📦 Tools: GitHub, Postman, Axios, VS Code, Figma, Canva
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Sahimbehlim&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Skills & Technologies
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sahimbehlim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
-[![](https://visitcount.itsvg.in/api?id=Sahimbehlim&icon=9&color=3)](https://visitcount.itsvg.in)
+### ⚛️ Frontend  
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)  
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)  
+![Context API](https://img.shields.io/badge/Context%20API-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![EJS](https://img.shields.io/badge/EJS-20232A?style=for-the-badge&logo=ejs&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🖥️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)  
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
+![Multer](https://img.shields.io/badge/Multer-FF6C37?style=for-the-badge&logoColor=white)
+
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 💳 Payment Integration  
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=blue)
+
+### 🧰 Tools & Utilities  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge)  
+![React Toastify](https://img.shields.io/badge/React--Toastify-000000?style=for-the-badge&logo=react&logoColor=white)  
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🎨 Design & CMS  
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+## 📌 Featured Projects
+
+### 🖼️ [Imagify – AI Image Generator SaaS](https://github.com/Sahimbehlim/Imagify)
+> Full-stack AI-based image generation SaaS platform with Razorpay integration  
+> Stack: MERN, Razorpay, JWT, Framer Motion, Tailwind CSS
+
+### 🗒️ [My Keep – Notes App](https://github.com/Sahimbehlim/Full-Stack-Mini-Projects/tree/main/my-keep)
+> Full-stack note management app with pin/archive/delete features  
+> Stack: MERN, JWT Auth, Context API, Tailwind CSS
+
+### ⚙️ [Full Stack Mini Projects](https://github.com/Sahimbehlim/Full-Stack-Mini-Projects)
+> Collection of full-stack projects using MERN and EJS (Todo App, Blog, URL Shortener)
+
+### 💡 [React Mini Projects](https://react-mini-projects-sb.netlify.app/)
+> 12+ frontend apps built with React, Vite, and Tailwind CSS demonstrating key React concepts
+
+### 🧪 [JavaScript Mini Projects](https://sahimbehlim.github.io/Javascript-Mini-Projects/)
+> Collection of frontend JS projects like Calculator, Weather App, QR Generator, Speed Typer
+
+### 🎨 [Wizard Landing Page](https://wizard-landing-page-sb.netlify.app/)
+> Responsive and reusable landing page with clean design and Tailwind styling
+
+## 📄 Certifications
+
+- 🏅 Python Web Development – TOPS Technologies (Sep 2024)
+- 🏅 React.js – Smart API Integration – TOPS Technologies (Aug 2024)
+
+## 📫 Let's Connect!
+
+- 📧 Email: behlimsahim@gmail.com  
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 📂 [Resume (PDF)](https://yourresume-link.com)
